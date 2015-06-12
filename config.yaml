@@ -1,0 +1,21 @@
+---
+id: rubykansai67-regexp
+base_name: rubykansai67-regexp
+tags:
+- ruby
+- regexp
+presentation_date: 2015.6.13
+version: 1.0.0
+licenses: []
+slideshare_id:
+speaker_deck_id:
+ustream_id:
+vimeo_id:
+youtube_id:
+author:
+  markup_language: :rd
+  name: Kazuhiro NISHIYAMA
+  email: zn@mbf.nifty.com
+  rubygems_user: znz
+  slideshare_user: znzjp
+  speaker_deck_user: znz
