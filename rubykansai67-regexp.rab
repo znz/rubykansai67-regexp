@@ -1,4 +1,6 @@
-= 正規表現の \z の話
+= 正規表現の \n \z の話
+: subtitle
+   あるちょっと遅そうな正規表現を \n 高速化した話
 : author
    Kazuhiro NISHIYAMA
 # : institution
