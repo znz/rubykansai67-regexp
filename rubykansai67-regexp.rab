@@ -14,6 +14,24 @@
 : theme
    default
 
+= 自己紹介
+
+  * twitter や github では @znz
+
+  # image
+  # src = https://secure.gravatar.com/avatar/8e497efbe99e2fa051316337d03624d9?s=200
+  # relative_height = 100
+
+= Ruby 関連
+
+  * Ruby (CRuby) のコミッター
+  * Ruby 関係でいろいろ
+    * るびま (Rubyist Magazine) とか
+      * http://magazine.rubyist.net/
+    * るりま (Ruby リファレンスマニュアル) とか
+      * http://docs.ruby-lang.org/ja/
+    * Ruby 関連のイベントでの発表
+
 = とある正規表現
 
     /(ん|ン)$/
